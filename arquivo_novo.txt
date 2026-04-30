@@ -1,1 +1,2 @@
 Arquivo exclusivo da branch
+Mais uma edição antes do merge
